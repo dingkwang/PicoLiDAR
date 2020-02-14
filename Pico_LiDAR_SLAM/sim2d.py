@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 '''GROUND TRUTH'''
-# Target Object 
+# Target Object define by center
 pcx = np.array([10])
 pcy= np.array([5])
 pxl = 0
